@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+gunicorn
+thefuzz
+python-Levenshtein
